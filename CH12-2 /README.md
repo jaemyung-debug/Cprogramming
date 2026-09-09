@@ -44,6 +44,8 @@
 
 #실습 과제 2-1
 <br>
+<img width="497" height="212" alt="image" src="https://github.com/user-attachments/assets/5c3e55a3-df19-490a-9748-329ce532bba4" />
+
 
 
 
@@ -51,8 +53,36 @@
 <br>
 -*ptr로 125번지에 값을 저장하려고 하면 어떠한 값이 있는지 모르는 메모리에 접근하게 되어 실행 오류가 발생하고 프로그램이 중단된다.
 
-#실습 과제 4
+#실습 과제4
 <br>
+-int a = 100, b = 200;
+>a는 100 b는 200으로 초기화
+
+-int sum;
+>변수 sum선언
+
+-int* pa = NULL;
+>포인터 pa 값 NULL로 초기화
+
+-int* pb = NULL;
+>포인터 pb 값 NULL로 초기화
+
+-pa = &a;
+>pa는 a의 주소 값으로 초기화
+
+-pb = &b;
+>pb는 b의 주소 값으로 초기화
+
+-sum = *pa + *pb;
+>pa가 가르키는 값과 pb가 가르키는 값의 함을 더한다.
+
+-printf("두 정수의 합 : % d \n", sum); 
+>두 정수의 합 sum 값 표출
+
+#실습 과제 4-1
+<br>
+<img width="527" height="200" alt="image" src="https://github.com/user-attachments/assets/bc0e29c2-a127-4f7c-b8ae-c135538332a6" />
+
 
 #실습 과제 5
 <br>
@@ -81,4 +111,6 @@
 >프로그램 종료
 
 #실습과제5-1
+<br>
+<img width="456" height="167" alt="image" src="https://github.com/user-attachments/assets/66595706-1e42-4d0a-be6c-88fa8304af77" />
 
