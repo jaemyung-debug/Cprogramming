@@ -105,6 +105,6 @@
 # 실습 과제 4-1
 -<img width="602" height="268" alt="image" src="https://github.com/user-attachments/assets/5201694f-9c95-4fd9-8333-9d45e825ba4e" />
 
-
 # 실습 과제 5
--
+-<img width="711" height="346" alt="image" src="https://github.com/user-attachments/assets/e5657134-52d0-4c95-818c-98083ed62baf" />
+
