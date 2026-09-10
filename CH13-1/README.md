@@ -59,6 +59,7 @@
 
 ## 코드의 문제와 값
 -a는 배열이므로 즉 상수이다. 증감을 할 수 없다. 
+
 -<img width="519" height="190" alt="image" src="https://github.com/user-attachments/assets/844d7ca7-02cf-47c1-b588-c651a06ad900" />
 
 # 실습 과제 4
