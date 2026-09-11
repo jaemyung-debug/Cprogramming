@@ -51,7 +51,7 @@
 
 # 실습 과제 2-1
 ## 실행 값
--<img width="498" height="273" alt="image" src="https://github.com/user-attachments/assets/174664e5-c67a-4c9f-82b8-33d8933f6305" />
+<img width="498" height="273" alt="image" src="https://github.com/user-attachments/assets/174664e5-c67a-4c9f-82b8-33d8933f6305" />
 
 # 실습 과제 3
 ## a++, ++a의 차이
@@ -60,7 +60,7 @@
 ## 코드의 문제와 값
 -a는 배열이므로 즉 상수이다. 증감을 할 수 없다. 
 
--<img width="519" height="190" alt="image" src="https://github.com/user-attachments/assets/844d7ca7-02cf-47c1-b588-c651a06ad900" />
+<img width="519" height="190" alt="image" src="https://github.com/user-attachments/assets/844d7ca7-02cf-47c1-b588-c651a06ad900" />
 
 # 실습 과제 4
 -double arr[5];
@@ -103,7 +103,7 @@
 > ptr 증감 연산자 활용 1씩 증가 시키면서 반복
 
 # 실습 과제 4-1
--<img width="602" height="268" alt="image" src="https://github.com/user-attachments/assets/5201694f-9c95-4fd9-8333-9d45e825ba4e" />
+<img width="602" height="268" alt="image" src="https://github.com/user-attachments/assets/5201694f-9c95-4fd9-8333-9d45e825ba4e" />
 
 # 실습 과제 5
 -double arr[5];
@@ -182,5 +182,5 @@
 > 배열 소수점 아래 2자리까지 출력
 
 # 실습 과제 5-1
--<img width="711" height="346" alt="image" src="https://github.com/user-attachments/assets/e5657134-52d0-4c95-818c-98083ed62baf" />
+<img width="711" height="346" alt="image" src="https://github.com/user-attachments/assets/e5657134-52d0-4c95-818c-98083ed62baf" />
 
