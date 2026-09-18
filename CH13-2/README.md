@@ -15,3 +15,4 @@
 
 # 실습과제 5번
 ## 실행결과
+<img width="447" height="132" alt="image" src="https://github.com/user-attachments/assets/7777a64c-3c8f-4dcd-b64a-2afcd3c067df" />
