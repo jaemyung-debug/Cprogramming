@@ -12,7 +12,7 @@
 - 원본이 전달될 필요가 있을 때 주소의 의한 호출 즉 포인터가 필요하다.
 
 # 실습 과제2
-- <img width="655" height="237" alt="image" src="https://github.com/user-attachments/assets/7819ba87-ee82-4408-a1fc-7afc4f4c4fe1" />
+<img width="655" height="237" alt="image" src="https://github.com/user-attachments/assets/7819ba87-ee82-4408-a1fc-7afc4f4c4fe1" />
 - 위 사진과 같이 수정된 함수를 호출하고 실행시켜도 실제 number메모리에 들어있는 값은 변하지 않는다.
 
 # 실습 과제2-1
