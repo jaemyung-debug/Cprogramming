@@ -16,12 +16,20 @@
 
 - 위 사진과 같이 수정된 함수를 호출하고 실행시켜도 실제 number메모리에 들어있는 값은 변하지 않는다.
 
-# 실습 과제2-1
+# 실습 과제 2-1
 - <img width="254" height="131" alt="image" src="https://github.com/user-attachments/assets/3072f5f5-c195-4c10-87a9-fa5d9cbb21e5" />
 
+# 실습 과제 3
+<img width="371" height="152" alt="image" src="https://github.com/user-attachments/assets/6bda96a9-d653-49cc-b0bb-43188a0d06b8" />
 
-# 실습 과제3
+# 실습 과제 4
+| main 함수 호출 후 | → | swap 함수 호출 직후 | → | ① 실행 | → | ② 실행 | → | ③ 실행 | → | swap 함수 종료 후 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| x → 10<br>y → 20<br>z → 30 | → | x → 10<br>y → 20<br>z → 30<br>px → 92<br>py → 96<br>k | → | k → 100 | → | a → 200<br>b → 200 | → | a → 200<br>b → 100 | → | a → 200<br>b → 100 |
 
-# 실습 과제4
+# 실습 과제 4-1
+<img width="372" height="153" alt="image" src="https://github.com/user-attachments/assets/5bef3dbe-6059-47f5-8bb8-0b861013c5be" />
+
 
 # 실습 과제5
+
