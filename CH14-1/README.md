@@ -25,7 +25,7 @@
 # 실습 과제 4
 | main 함수 호출 후 | → | swap 함수 호출 직후 | → | 1 실행 | → | 2 실행 | → | 3 실행 | → | 4 실행 | → | swap 함수 종료 후 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| x → 10<br>y → 20<br>z → 30 | → | x → 10<br>y → 20<br>z → 30<br>px → 92<br>py → 96<br>pz → 98<br>k | → | k → 30 | → | x → 10<br>y → 20<br>z → 20 | → | x → 10<br>y → 10<br>z → 20 | → | x → 30<br>y → 10<br>z → 20 |
+| x → 10<br>y → 20<br>z → 30 | → | x → 10<br>y → 20<br>z → 30<br>px → 92<br>py → 96<br>pz → 98<br>k | → | k → 30 | → | x → 10<br>y → 20<br>z → 20 | → | x → 10<br>y → 10<br>z → 20 | → | x → 30<br>y → 10<br>z → 20 | → | x → 30<br>y → 10<br>z → 20 |
 
 # 실습 과제 4-1
 <img width="372" height="153" alt="image" src="https://github.com/user-attachments/assets/5bef3dbe-6059-47f5-8bb8-0b861013c5be" />
