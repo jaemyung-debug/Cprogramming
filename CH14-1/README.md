@@ -30,6 +30,9 @@
 # 실습 과제 4-1
 <img width="372" height="153" alt="image" src="https://github.com/user-attachments/assets/5bef3dbe-6059-47f5-8bb8-0b861013c5be" />
 
+# 실습 과제 5
+- Call by value는 변수의 값을 복사하여 매개변수에 저장하는 방식이며, Call by reference는 변수의 주소를 전달하여, 함수 내부에서 포인터를 통해 원래 변수의 값을 변경할 수 있는 방식이다. 따라서 현재 사용하기에 적합한 함수는 Call by value이다. 변수 자체를 변경할 필요가 없기 때문이다.
 
-# 실습 과제5
+# 실습 과제 5-1
+<img width="307" height="96" alt="image" src="https://github.com/user-attachments/assets/3bb4ff88-886f-4bb4-ba5e-ac3a5c3d2c83" />
 
