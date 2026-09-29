@@ -26,4 +26,10 @@
 
 -ptr은 int 값을 가리키는 포인터이다. 단, ptr을 통해서는 가리키는 값을 변경할 수 없음 (const를 선언했기 때문이다)
 
-# 실습 과제 6
+# 실습 과제 6-1
+<img width="504" height="281" alt="image" src="https://github.com/user-attachments/assets/c880a558-33bd-4db1-a0d8-1db64867fa8b" />
+
+# 실습 과제 6-2
+
+# 실습 과제 6-3
+
