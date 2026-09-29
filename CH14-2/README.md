@@ -9,6 +9,7 @@
 >
 
 # 실습 과제 2
+<img width="379" height="166" alt="image" src="https://github.com/user-attachments/assets/ba41b4d9-7f75-4778-9441-d1d80b099255" />
 
 # 실습 과제 3
 <img width="339" height="227" alt="image" src="https://github.com/user-attachments/assets/81d17c65-bec9-48ee-98cb-9571ad09c50d" />
