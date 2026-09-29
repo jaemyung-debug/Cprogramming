@@ -51,6 +51,8 @@ void get_max(int*array, int*max)
     *max = big;
 }
 # 실습 과제 3
+<img width="339" height="227" alt="image" src="https://github.com/user-attachments/assets/81d17c65-bec9-48ee-98cb-9571ad09c50d" />
+
 
 # 실습 과제 4
 
