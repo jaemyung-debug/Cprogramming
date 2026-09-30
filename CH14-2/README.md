@@ -32,4 +32,5 @@
 # 실습 과제 6-2
 
 # 실습 과제 6-3
+<img width="326" height="187" alt="image" src="https://github.com/user-attachments/assets/8f179457-e495-47ae-9cbf-e3f09ca55120" />
 
