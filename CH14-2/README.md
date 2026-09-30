@@ -30,6 +30,7 @@
 <img width="504" height="281" alt="image" src="https://github.com/user-attachments/assets/c880a558-33bd-4db1-a0d8-1db64867fa8b" />
 
 # 실습 과제 6-2
+<img width="428" height="248" alt="image" src="https://github.com/user-attachments/assets/08f62d95-da5e-45ac-a3d6-f5fa1b1cef57" />
 
 # 실습 과제 6-3
 <img width="326" height="187" alt="image" src="https://github.com/user-attachments/assets/8f179457-e495-47ae-9cbf-e3f09ca55120" />
