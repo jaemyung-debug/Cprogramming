@@ -24,7 +24,7 @@
 # 실습 과제 5
 <img width="299" height="189" alt="image" src="https://github.com/user-attachments/assets/3929376b-8ee2-4b81-95ae-72c79b4f9447" />
 
--ptr은 int 값을 가리키는 포인터이다. 단, ptr을 통해서는 가리키는 값을 변경할 수 없음 (const를 선언했기 때문이다)
+- ptr은 int 값을 가리키는 포인터이다. 단, ptr을 통해서는 가리키는 값을 변경할 수 없음 (const를 선언했기 때문이다)
 
 # 실습 과제 6-1
 <img width="504" height="281" alt="image" src="https://github.com/user-attachments/assets/c880a558-33bd-4db1-a0d8-1db64867fa8b" />
