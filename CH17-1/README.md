@@ -11,3 +11,6 @@
 | **dptr | 6.28 | double |
 
 # 실습 과제 2번
+
+# 실습 과제 3번
+<img width="289" height="162" alt="image" src="https://github.com/user-attachments/assets/081bfa97-7443-4b92-ad4a-384752672e5a" />
