@@ -18,3 +18,12 @@
 
 # 실습 과제 4번
 <img width="192" height="128" alt="image" src="https://github.com/user-attachments/assets/1a101567-b0db-4de5-8484-b2b4e4926540" />
+
+| 수식 | 의미 | 결과값의 자료형 |
+|---|---|---|
+| maxPtr | maxPtr가 저장하고 있는 주소 | int* |
+| minPtr | minPtr가 저장하고 있는 주소 | int* |
+| &maxPtr | maxPtr 자신의 주소 | int** |
+| &minPtr | minPtr 자신의 주소 | int** |
+| *maxPtr | 최댓값이 저장된 주소 | int |
+| *minPtr | 최솟값이 저장된 주소 | int |
