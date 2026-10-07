@@ -11,6 +11,9 @@
 | **dptr | 6.28 | double |
 
 # 실습 과제 2번
+<img width="250" height="169" alt="image" src="https://github.com/user-attachments/assets/cb2e4783-a786-4c13-b3be-db1c6bcc5c5a" />
 
 # 실습 과제 3번
 <img width="289" height="162" alt="image" src="https://github.com/user-attachments/assets/081bfa97-7443-4b92-ad4a-384752672e5a" />
+
+# 실습 과제 4번
