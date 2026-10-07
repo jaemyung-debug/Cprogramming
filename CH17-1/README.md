@@ -17,3 +17,4 @@
 <img width="289" height="162" alt="image" src="https://github.com/user-attachments/assets/081bfa97-7443-4b92-ad4a-384752672e5a" />
 
 # 실습 과제 4번
+<img width="192" height="128" alt="image" src="https://github.com/user-attachments/assets/1a101567-b0db-4de5-8484-b2b4e4926540" />
