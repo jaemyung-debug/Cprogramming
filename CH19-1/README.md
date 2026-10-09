@@ -35,7 +35,15 @@ double b;
 b = a;
 
 # 실습 과제 2
+<img width="248" height="143" alt="image" src="https://github.com/user-attachments/assets/174256bb-76cc-4b38-a5b4-1a02b48cea0f" />
+<img width="241" height="81" alt="image" src="https://github.com/user-attachments/assets/b5db504e-3a9d-4795-a1f4-55553445a196" />
 
 # 실습 과제 3
 <img width="344" height="141" alt="image" src="https://github.com/user-attachments/assets/b4d65709-ba45-492c-af6e-5873d7c7d2fd" />
+
+# 실습 과제 4-1
+
+# 실습 과제 4-2
+
+# 실습 과제 4-3
 
