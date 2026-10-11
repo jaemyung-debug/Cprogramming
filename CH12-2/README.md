@@ -107,7 +107,7 @@
 -return 0;
 >프로그램 종료
 
-#실습과제5-1
+# 실습과제5-1
 <br>
 <img width="456" height="167" alt="image" src="https://github.com/user-attachments/assets/66595706-1e42-4d0a-be6c-88fa8304af77" />
 
