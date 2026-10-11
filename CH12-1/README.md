@@ -42,28 +42,19 @@
 # 실습 과제 4
 - char a = 'A'; -> 문자형 선언 a는 A 초기화
 
->int b = 36;
->>정수형 선언 b는 36 초기화
+- int b = 36; -> 정수형 선언 b는 36 초기화
 
->double c = 3.141592;
->>실수형 선언 c는 3.141592 초기화
+- double c = 3.141592; -> 실수형 선언 c는 3.141592 초기화
 
->char* pa = &a;
->>변수 a의 주소를 포인터 변수 pa에 저장
+- char* pa = &a; -> 변수 a의 주소를 포인터 변수 pa에 저장
 
->int* pb = &b;
->>변수 b의 주소를 포인터 변수 pb에 저장
+- int* pb = &b; -> 변수 b의 주소를 포인터 변수 pb에 저장
 
->double* pc = &c;
->>변수 c의 주소를 포인터 변수 pc에 저장
+- double* pc = &c; -> 변수 c의 주소를 포인터 변수 pc에 저장
 
+- printf("char형 변수 a의 주소: %p\n", (void*)pa); -> pa에 저장된 a의 주소를 출력
 
->printf("char형 변수 a의 주소: %p\n", (void*)pa);
->>pa에 저장된 a의 주소를 출력
+- printf("int형 변수 b의 주소: %p\n", (void*)pb); -> pb에 저장된 b의 주소를 출력
 
->printf("int형 변수 b의 주소: %p\n", (void*)pb);
->>pb에 저장된 b의 주소를 출력
-
->printf("double형 변수 c의 주소: %p\n", (void*)pc);
->>pc에 저장된 c의 주소를 출력
+- printf("double형 변수 c의 주소: %p\n", (void*)pc); -> pc에 저장된 c의 주소를 출력
 
