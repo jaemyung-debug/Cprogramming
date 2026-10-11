@@ -47,5 +47,6 @@ b = a;
 # 도전 과제 2
 <img width="274" height="361" alt="image" src="https://github.com/user-attachments/assets/2cff703d-023e-4705-ad28-c02f9eb68080" />
 
-# 실습 과제 4-3
+# 도전 과제 3
+<img width="247" height="172" alt="image" src="https://github.com/user-attachments/assets/4e3e9b80-b79b-4df7-9520-a4a10ff4697b" />
 
