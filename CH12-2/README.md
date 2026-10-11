@@ -1,4 +1,4 @@
-#실습 과제 1
+# 실습 과제 1
 -| 수식 | 결과값 | 결과값의 자료형 |
 -|---|---|---|
 -| &ch | 100 | char* |
@@ -8,7 +8,7 @@
 -| *&in | 10 | int |
 -| *&db | 3.4 | double |
 
-#실습 과제 2
+# 실습 과제 2
 <br>
 -int a = -100;
 >정수형 a -100으로 초기화
@@ -42,18 +42,15 @@
 -return 0;
 >프로그램 종료
 
-#실습 과제 2-1
+# 실습 과제 2-1
 <br>
 <img width="497" height="212" alt="image" src="https://github.com/user-attachments/assets/5c3e55a3-df19-490a-9748-329ce532bba4" />
 
-
-
-
-#실습 과제 3
+# 실습 과제 3
 <br>
 -*ptr로 125번지에 값을 저장하려고 하면 어떠한 값이 있는지 모르는 메모리에 접근하게 되어 실행 오류가 발생하고 프로그램이 중단된다.
 
-#실습 과제4
+# 실습 과제4
 <br>
 -int a = 100, b = 200;
 >a는 100 b는 200으로 초기화
@@ -79,12 +76,12 @@
 -printf("두 정수의 합 : % d \n", sum); 
 >두 정수의 합 sum 값 표출
 
-#실습 과제 4-1
+# 실습 과제 4-1
 <br>
 <img width="527" height="200" alt="image" src="https://github.com/user-attachments/assets/bc0e29c2-a127-4f7c-b8ae-c135538332a6" />
 
 
-#실습 과제 5
+# 실습 과제 5
 <br>
 -int num1 = 20, num2=30;
 >num1은 20, num2는 30으로 초기화
