@@ -5,22 +5,33 @@
 // **********************************************
 
 #define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031)
 #include <stdio.h>
 int main()
 {
-	char* fruits[] = { "apple", "blueberry", "orange", "melon" };
-    int i = 0;
+    
+    char* fruits[] = { "apple", "blueberry", "orange", "melon" };
+    char* p1 = fruits[0];  // p1은 현재 사전순으로 가장 앞에 있는 문자열을 가리킨다.
+    char* p2;   // p2는 새롭게 비교할 문자열을 가리킨다.
+    int i, j;
 
-    for (int k = 1; k < 4; k++)
+    for (i = 1; i < 4; i++) // 두 번째 문자열부터 마지막 문자열까지 차례대로 비교한다.
     {
-        if (fruits[k][0] < fruits[i][0])
+        p2 = fruits[i]; // p2가 현재 비교할 문자열을 가리키도록 한다.
+        j = 0;
+        
+        while (*(p1 + j) == *(p2 + j) && *(p1 + j) != '\0') // 두 문자가 같고 문자열의 끝이 아니라면 다음 문자로 이동한다.
         {
-            i = k;
+            j++;
+        }
+
+        if (*(p1 + j) > *(p2 + j))
+        {
+            p1 = p2;  // 현재 가장 앞선 문자열을 p2가 가리키는 문자열로 변경한다.
         }
     }
+    
+    printf("사전순으로 가장 앞에 나오는 문자열: %s\n", p1);
 
-    printf("사전에서 가장 앞에 나오는 문자열: %s\n", fruits[i]);
-
-
-	return 0;
+    return 0;
 }
