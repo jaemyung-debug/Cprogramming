@@ -5,31 +5,29 @@
 // **********************************************
 
 #define _CRT_SECURE_NO_WARNINGS
+#pragma disable(warning:6031)
 #include <stdio.h>
 int main()
 {
-    char arr[100];
-    int i = 0;
+	char arr[100]; // 문자열 배열 100칸 선언
+	char* a = arr; // 포인터 a가 배열을 가르킨다
 
-    printf("문자열을 입력하시오:");
-    scanf("%s", arr);
-    while (1)
-    {
-        if (arr[i] >= 'a' && arr[i] <= 'z')
-        {
-            arr[i] = arr[i] - 32;
-        }
-        else if (arr[i] >= 'A' && arr[i] <= 'Z')
-        {
-            arr[i] = arr[i] + 32;
-        }
-        i++;
+	printf("문자열을 입력하시오: ");
+	scanf("%s", &arr);
 
-        if(arr[i] == '\0')
-           break;
-    }   
-    printf("변환된 문자열: %s\n", arr);
-
+	while (*a != '\0')// while문 포인터 a 즉 배열이 빈 공간을 만나면 종료
+	{
+		if (*a >= 'a' && *a <= 'z') // 포인터 a 가 아스키 코드로 소문자이면 32를 차감
+		{
+			*a = *a - 32;
+		}
+		else if (*a >= 'A' && *a <= 'Z') // 포인터 a 가 아스키 코드로 대문자이면 32를 증가
+		{
+			*a = *a + 32;
+		}
+		a++;
+	}
+	printf("변환결과: %s",arr);
 
 	return 0;
 }
