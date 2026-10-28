@@ -29,3 +29,4 @@
 <img width="397" height="241" alt="image" src="https://github.com/user-attachments/assets/4df25a22-30ae-4296-ba1c-a8c63fe24ebf" />
 
 # 실습 과제 5
+<img width="393" height="170" alt="image" src="https://github.com/user-attachments/assets/51e693ee-54f5-46c6-9f59-9a8166fc08f9" />
