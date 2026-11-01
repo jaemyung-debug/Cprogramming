@@ -5,6 +5,7 @@
 <img width="242" height="124" alt="image" src="https://github.com/user-attachments/assets/b53d8463-f58e-45ad-bf6d-92f6bdbe560f" />
 
 # 실습 과제 3
+<img width="295" height="164" alt="image" src="https://github.com/user-attachments/assets/6ac6c8c7-a297-4b9d-ba52-9005f026af03" />
 
 # 실습 과제 4
 
