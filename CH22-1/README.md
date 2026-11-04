@@ -24,5 +24,5 @@
 # 실습 과제 4
 <img width="307" height="124" alt="image" src="https://github.com/user-attachments/assets/0d4e73c3-d2da-4686-b653-49837639a88b" />
 
-
 # 실습 과제 5
+<img width="315" height="160" alt="image" src="https://github.com/user-attachments/assets/305447f0-c3d4-45a9-91c3-7e4fe2c0b8d5" />
