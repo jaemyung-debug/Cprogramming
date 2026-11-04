@@ -13,7 +13,7 @@
    
 ## 구조체 정의와 구조체 변수 선언의 의미를 각각 설명하라
 - 구조체 정의: 새로운 자료형을 정의하는 일
-- 구조체 변수 선언: struct <구조체명> <변수명>;
+- 구조체 변수 선언: struct <구조체명> <변수명>; 
 
 # 실습 과제 2
 <img width="410" height="216" alt="image" src="https://github.com/user-attachments/assets/7fd8dedd-4893-4abd-8eb2-b53b05e12ffa" />
