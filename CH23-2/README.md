@@ -9,6 +9,7 @@
 - 열거형 즉, enum은 사용하면 코드의 가독성이 높아지고, 프로그램을 이해하고 수정하기 쉬워진다.
 
 # 실습 과제 2
+<img width="369" height="382" alt="image" src="https://github.com/user-attachments/assets/5bb4d7db-40fd-410b-a399-af6ed6313eaf" />
 
 # 실습 과제 3
 
