@@ -10,3 +10,5 @@
 <img width="185" height="219" alt="image" src="https://github.com/user-attachments/assets/814cb38b-bb94-4dbc-83eb-5b59d30f10ef" />
 
 # 실습 과제 4
+<img width="272" height="222" alt="image" src="https://github.com/user-attachments/assets/bbc0fd85-6ecb-4665-9cca-c44be1dc23fb" />
+<img width="919" height="115" alt="image" src="https://github.com/user-attachments/assets/880880c2-2599-40e6-a2c8-cf303b4b8bae" />
